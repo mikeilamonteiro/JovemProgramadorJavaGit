@@ -6,6 +6,7 @@ public class TesteIntegracao {
 		// TODO Auto-generated method stub
 		System.out.println("primeiro teste" );
 		System.out.println("teste");
+		Sytem.out.println("terceiro teste ");
 
 	}
 
